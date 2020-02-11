@@ -1,1 +1,1 @@
-db.user3.find({"name":"mark"},{"fans":{"$slice":1}})
+db.user4.find({"name":"mark"},{"fans":{"$slice":1}})
