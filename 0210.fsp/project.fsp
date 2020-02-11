@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<powercam ver="6.0.120716">
+	<project>
+		<abstract>
+			<title>PowerCam Title</title>
+			<author>
+			</author>
+			<manager>
+			</manager>
+			<company>
+			</company>
+			<category>
+			</category>
+			<keywords>
+			</keywords>
+			<comments>
+			</comments>
+		</abstract>
+		<configure>
+			<profile>
+				<audio>
+					<codec>OGG</codec>
+					<bitrate>32</bitrate>
+					<channel>1</channel>
+					<samplerate>16000</samplerate>
+				</audio>
+				<video>
+					<codec>xvid</codec>
+					<bitrate>96</bitrate>
+					<size>
+					</size>
+					<preview>0</preview>
+				</video>
+				<screen>
+					<size>1093x614</size>
+				</screen>
+			</profile>
+			<template>bird</template>
+			<photo size="160x120">photo.gif</photo>
+			<sound volume="3">
+			</sound>
+			<showcursor>1</showcursor>
+			<realcursor>0</realcursor>
+		</configure>
+		<sequencing>
+		</sequencing>
+		<index duration="29:58.848" type="OL">
+			<item>
+				<title>index 1</title>
+				<recdate>2020/2/10 上午 09:11:01</recdate>
+				<pos>0</pos>
+			</item>
+			<item>
+				<title>index 2</title>
+				<recdate>2020/2/10 上午 09:16:33</recdate>
+				<pos>98688</pos>
+			</item>
+			<item>
+				<title>index 3</title>
+				<recdate>2020/2/10 上午 09:17:46</recdate>
+				<pos>140800</pos>
+			</item>
+			<item>
+				<title>index 4</title>
+				<recdate>2020/2/10 上午 09:23:21</recdate>
+				<pos>241856</pos>
+			</item>
+			<item>
+				<title>index 5</title>
+				<recdate>2020/2/10 上午 09:40:26</recdate>
+				<pos>1094144</pos>
+			</item>
+			<item>
+				<title>index 6</title>
+				<recdate>2020/2/10 上午 09:49:40</recdate>
+				<pos>1318080</pos>
+			</item>
+		</index>
+	</project>
+</powercam>
