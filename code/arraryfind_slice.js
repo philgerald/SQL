@@ -1,0 +1,1 @@
+db.user3.find({"name":"mark"},{"fans":{"$slice":1}})

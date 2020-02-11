@@ -1,0 +1,27 @@
+db.stock12.insert([
+    {"id":"1","name":"peter",
+	"stock":["htc","asus","acer"],
+	"quantity":[10,20,30]},
+    {"id":"2","name":"tony",
+	"stock":["acer","asus"],
+	"quantity":[5,6]},
+    {"id":"3","name":"obama",
+	"stock":["htc","acer"],
+	"quantity":[30,40]},
+    {"id":"4","name":"trump",
+	"stock":["htc","asus"],
+	"quantity":[330,41]}
+]);
+
+1.尋找peter的第一個stock  a:htc
+
+
+2.尋找quantity中至少有一個值為大於20小於50的stock a:
+
+
+3.尋找stock中同時有htc、asus
+
+
+4.尋找有二stock
+
+
