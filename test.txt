@@ -1,0 +1,5 @@
+42	France
+128	Research and Development
+129	Human Resources
+130	Marketing
+133	Asset Management
